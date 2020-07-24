@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Redux-Calculator/static/css/main.5a59a19a.chunk.css",
+    "main.js": "/React-Redux-Calculator/static/js/main.b51f321a.chunk.js",
+    "main.js.map": "/React-Redux-Calculator/static/js/main.b51f321a.chunk.js.map",
+    "runtime-main.js": "/React-Redux-Calculator/static/js/runtime-main.7578f79d.js",
+    "runtime-main.js.map": "/React-Redux-Calculator/static/js/runtime-main.7578f79d.js.map",
+    "static/js/2.77d44154.chunk.js": "/React-Redux-Calculator/static/js/2.77d44154.chunk.js",
+    "static/js/2.77d44154.chunk.js.map": "/React-Redux-Calculator/static/js/2.77d44154.chunk.js.map",
+    "index.html": "/React-Redux-Calculator/index.html",
+    "precache-manifest.ce4c3d00523b591e4aba2c1e80f671c6.js": "/React-Redux-Calculator/precache-manifest.ce4c3d00523b591e4aba2c1e80f671c6.js",
+    "service-worker.js": "/React-Redux-Calculator/service-worker.js",
+    "static/css/main.5a59a19a.chunk.css.map": "/React-Redux-Calculator/static/css/main.5a59a19a.chunk.css.map",
+    "static/js/2.77d44154.chunk.js.LICENSE.txt": "/React-Redux-Calculator/static/js/2.77d44154.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7578f79d.js",
+    "static/js/2.77d44154.chunk.js",
+    "static/css/main.5a59a19a.chunk.css",
+    "static/js/main.b51f321a.chunk.js"
+  ]
+}
